@@ -19,5 +19,8 @@
   "homepage": "https://github.com/arunbhardwaj/grokking#readme",
   "devDependencies": {
     "@types/node": "^17.0.15"
+  },
+  "dependencies": {
+    "collections": "^5.1.13"
   }
 }
