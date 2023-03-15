@@ -1,7 +1,7 @@
 const solution = (tree) => {
   const output = []
   let queue = []
-  let level = 0;
+  let level = 0
   queue.push(tree)
   while (queue.length) {
     console.log({level})
